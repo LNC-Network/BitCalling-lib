@@ -1,0 +1,16 @@
+build/
+*.o
+*.d
+*.a
+*.so
+*.lo
+*.la
+*.libs
+*.mod
+*.sym
+.deps/
+.libs/
+a.out
+*.exe
+*.dll
+*.lib
