@@ -1,2 +1,2 @@
 # BitCalling
-p2p calling app
+based on our in house innovation "OMCP" 
